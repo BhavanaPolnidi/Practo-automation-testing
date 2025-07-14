@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-20T19:11:33 IST" name="Suite" finished-at="2025-04-20T19:13:57 IST" duration-ms="143223">
+    <groups>
+    </groups>
+    <test started-at="2025-04-20T19:11:33 IST" name="Test" finished-at="2025-04-20T19:13:57 IST" duration-ms="143223">
+      <class name="TestCases.TC__03_HealthandWellnessPage">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:TestCases.TC__03_HealthandWellnessPage@13b6aecc]" started-at="2025-04-20T19:13:27 IST" name="getDriver" finished-at="2025-04-20T19:13:37 IST" duration-ms="10185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="click()[pri:1, instance:TestCases.TC__03_HealthandWellnessPage@13b6aecc]" started-at="2025-04-20T19:13:37 IST" name="click" finished-at="2025-04-20T19:13:41 IST" duration-ms="3942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method signature="clickAgainWithExcelData()[pri:2, instance:TestCases.TC__03_HealthandWellnessPage@13b6aecc]" started-at="2025-04-20T19:13:41 IST" name="clickAgainWithExcelData" finished-at="2025-04-20T19:13:49 IST" duration-ms="8268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAgainWithExcelData -->
+        <test-method signature="clickOnceAgain()[pri:3, instance:TestCases.TC__03_HealthandWellnessPage@13b6aecc]" started-at="2025-04-20T19:13:49 IST" name="clickOnceAgain" finished-at="2025-04-20T19:13:54 IST" duration-ms="5283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnceAgain -->
+        <test-method signature="validate_Thankyou()[pri:4, instance:TestCases.TC__03_HealthandWellnessPage@13b6aecc]" started-at="2025-04-20T19:13:54 IST" name="validate_Thankyou" finished-at="2025-04-20T19:13:55 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_Thankyou -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TC__03_HealthandWellnessPage@13b6aecc]" started-at="2025-04-20T19:13:55 IST" name="teardown" finished-at="2025-04-20T19:13:57 IST" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TC__03_HealthandWellnessPage -->
+      <class name="TestCases.TC_01_HospitalList">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:TestCases.TC_01_HospitalList@305b7c14]" started-at="2025-04-20T19:11:34 IST" name="getDriver" finished-at="2025-04-20T19:11:46 IST" duration-ms="12437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="validationoftitle()[pri:1, instance:TestCases.TC_01_HospitalList@305b7c14]" started-at="2025-04-20T19:11:46 IST" name="validationoftitle" finished-at="2025-04-20T19:11:47 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationoftitle -->
+        <test-method signature="searchforhospitals()[pri:2, instance:TestCases.TC_01_HospitalList@305b7c14]" started-at="2025-04-20T19:11:47 IST" name="searchforhospitals" finished-at="2025-04-20T19:11:53 IST" duration-ms="6780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchforhospitals -->
+        <test-method signature="locationsearch()[pri:3, instance:TestCases.TC_01_HospitalList@305b7c14]" started-at="2025-04-20T19:11:53 IST" name="locationsearch" finished-at="2025-04-20T19:11:57 IST" duration-ms="3054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locationsearch -->
+        <test-method signature="HospitalList()[pri:4, instance:TestCases.TC_01_HospitalList@305b7c14]" started-at="2025-04-20T19:11:57 IST" name="HospitalList" finished-at="2025-04-20T19:13:03 IST" duration-ms="66701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HospitalList -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TC_01_HospitalList@305b7c14]" started-at="2025-04-20T19:13:03 IST" name="teardown" finished-at="2025-04-20T19:13:05 IST" duration-ms="1564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TC_01_HospitalList -->
+      <class name="TestCases.TC_02_DiagnosticPage">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:TestCases.TC_02_DiagnosticPage@7d8704ef]" started-at="2025-04-20T19:13:05 IST" name="getDriver" finished-at="2025-04-20T19:13:16 IST" duration-ms="11112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="valiationfortitleTC2()[pri:1, instance:TestCases.TC_02_DiagnosticPage@7d8704ef]" started-at="2025-04-20T19:13:16 IST" name="valiationfortitleTC2" finished-at="2025-04-20T19:13:16 IST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valiationfortitleTC2 -->
+        <test-method signature="diagnosticclick()[pri:2, instance:TestCases.TC_02_DiagnosticPage@7d8704ef]" started-at="2025-04-20T19:13:16 IST" name="diagnosticclick" finished-at="2025-04-20T19:13:23 IST" duration-ms="6852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diagnosticclick -->
+        <test-method signature="validationfordiagnosticpage()[pri:3, instance:TestCases.TC_02_DiagnosticPage@7d8704ef]" started-at="2025-04-20T19:13:23 IST" name="validationfordiagnosticpage" finished-at="2025-04-20T19:13:24 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationfordiagnosticpage -->
+        <test-method signature="topcitiesdisplay()[pri:4, instance:TestCases.TC_02_DiagnosticPage@7d8704ef]" started-at="2025-04-20T19:13:24 IST" name="topcitiesdisplay" finished-at="2025-04-20T19:13:24 IST" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topcitiesdisplay -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TC_02_DiagnosticPage@7d8704ef]" started-at="2025-04-20T19:13:24 IST" name="teardown" finished-at="2025-04-20T19:13:27 IST" duration-ms="2325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TC_02_DiagnosticPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
